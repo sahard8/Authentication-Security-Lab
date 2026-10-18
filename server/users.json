@@ -1,0 +1,190 @@
+[
+  {
+    "username": "rimon90",
+    "password": "aabbcc",
+    "password_strength": "weak",
+    "totp_secret": "P4AZNHREG2XLSXMBUQXCXMUJTKPJGF45"
+    
+  },
+  {
+    "username": "weak_user",
+    "password": "weak",
+    "password_strength": "weak"
+    
+  },
+  {
+    "username": "daniel01",
+    "password": "12345678",
+    "password_strength": "weak"
+    
+  },
+  {
+    "username": "golom",
+    "password": "precious",
+    "password_strength": "weak",
+    "totp_secret": "3OTSXC3PWDYQYVN67SBJOIMKZ53DVDN2"
+  },
+  {
+    "username": "noa_test",
+    "password": "test",
+    "password_strength": "weak"
+    
+  },
+  {
+    "username": "user_maya",
+    "password": "111111",
+    "password_strength": "weak",
+    "totp_secret": "5IL4RJE6QOIRJIDIPOLC3UK6ECKD6K7B"
+    
+  },
+  {
+    "username": "Hodor",
+    "password": "HODOR",
+    "password_strength": "weak"
+    
+  },
+  {
+    "username": "ron_admin",
+    "password": "admin",
+    "password_strength": "weak"
+
+  },
+  {
+    "username": "gal_user",
+    "password": "1234",
+    "password_strength": "weak"
+    
+  },
+  {
+    "username": "amit29",
+    "password": "abcd",
+    "password_strength": "weak"
+    
+  },
+    {
+    "username": "user1",
+    "password": "14320970",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "Naruto45",
+    "password": "rasengan6",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "shaked77",
+    "password": "Rangers1",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "elad_dev",
+    "password": "softball24",
+    "password_strength": "medium",
+    "totp_secret": "QFQ5V5BL5HJJGG7SYCTUUJ2XI4FZUKCA"
+    
+  },
+  {
+    "username": "maya_blue",
+    "password": "tiger8!",
+    "password_strength": "medium"
+  
+  },
+  {
+    "username": "ben_player",
+    "password": "$Ninja",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "noa34",
+    "password": "Book555",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "Voldemort",
+    "password": "tomriddel1",
+    "password_strength": "medium",
+    "totp_secret": "DJ5KDFLORA6TZ6ZWO4IFCRWKEYF5MSJY"
+  },
+  {
+    "username": "Bruce_Waynen",
+    "password": "baTman7",
+    "password_strength": "medium"
+    
+  },
+  {
+    "username": "fiGther",
+    "password": "happy2%",
+    "password_strength": "medium"
+    
+  },
+      {
+    "username": "Harry_Potter",
+    "password": "nZ5&xG8#L2v",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "liron_x",
+    "password": "Qw8fdf89gfS",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "sahar10",
+    "password": "zL8%kG9@tB4",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "david9",
+    "password": "M#8pR!6uX3c",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "yona_dev",
+    "password": "T1$eF9&hQ7p",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "Loffy",
+    "password": "%Gear3l!&0532",
+    "password_strength": "strong",
+    "totp_secret": "GD5OHLJMKM3LLBOIDQ4YWXNTKOO327AF"
+    
+  },
+  {
+    "username": "cyberFun",
+    "password": "X$3kP!7mQ4r",
+    "password_strength": "strong",
+    "totp_secret": "SLE27CQO5QFLSSD74Z66WFDUVJKC3G6L" 
+  },
+  {
+    "username": "idan_auth",
+    "password": "J9$eR1!fT6s",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "bllablla",
+    "password": "a9f$l2p#x1",
+    "password_strength": "strong"
+    
+  },
+  {
+    "username": "tal_root",
+    "password": "2!@$gsagD&",
+    "password_strength": "strong"
+    
+  }
+]
+
+  
+  
+

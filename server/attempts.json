@@ -1,0 +1,154 @@
+{
+    "users": {
+        "rimon90": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "weak_user": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "daniel01": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "golom": {
+            "attempts": 270,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "noa_test": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "user_maya": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Hodor": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "ron_admin": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "gal_user": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "amit29": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "user1": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Naruto45": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "shaked77": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "elad_dev": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "maya_blue": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "ben_player": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "noa34": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Voldemort": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Bruce_Waynen": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "fiGther": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Harry_Potter": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "liron_x": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "sahar10": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "david9": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "yona_dev": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "Loffy": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "cyberFun": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "idan_auth": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "bllablla": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        },
+        "tal_root": {
+            "attempts": 0,
+            "locked_out_until": null,
+            "permanent_lock": false
+        }
+    }
+}

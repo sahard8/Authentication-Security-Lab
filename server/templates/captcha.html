@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Captcha Verification</title>
+</head>
+<body>
+  <h2>Token Authentication</h2>
+
+  {% if message %}
+    <p>{{ message }}</p>
+  {% endif %}
+
+  {% if error %}
+    <p style="color:red">{{ error }}</p>
+  {% endif %}
+
+  <form action="/login_captcha" method="POST">
+    <label for="token_request">Authentication token:</label><br>
+    <input type="text" id="token_request" name="token_request" maxlength="40" required><br><br>
+    <button type="submit">Verify</button>
+  </form>
+
+  <p><a href="/">Back to login</a></p>
+</body>
+</html>

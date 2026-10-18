@@ -1,0 +1,20 @@
+blinker==1.9.0
+click==8.3.1
+colorama==0.4.6
+Flask==3.1.2
+Flask-SQLAlchemy==3.1.1
+greenlet==3.2.4
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+SQLAlchemy==2.0.44
+typing_extensions==4.15.0
+Werkzeug==3.1.3
+bcrypt  # Hash passwords securely
+passlib[argon2]  # Another secure password hashing option (supports Argon2)
+pyotp # Creates one-time codes (for 2FA)
+Flask-WTF  # Makes it easy to build forms in Flask (with validation)
+WTForms # Handles form fields and checks if input is valid
+requests
+psutil
+#threading

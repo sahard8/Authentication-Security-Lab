@@ -1,0 +1,29 @@
+
+{
+    "hash_mode" : "sha256",
+    "attack_mode" : "brute_force",  
+    "attacked_username" : "golom",
+    "pepper_enabled" : false,
+    "pepper_value" : "14320970",
+    "TOTP" : false,
+    "rate_limiting" : {
+        "enabled" : false,
+        "max_attempts" : 100,
+        "lockout_duration_seconds" : 10
+    },
+    "account_lockout" : {
+        "enabled" : false,
+        "max_attempts" : 2
+    },
+    "captcha" : {
+        "enabled" : false,
+        "number_of_failed_attempts" : 30,
+        "user_has_token": true,
+        "delay_for_correct_token_seconds": 1,
+        "delay_for_incorrect_token_seconds": 10
+    }
+}
+
+  
+  
+
