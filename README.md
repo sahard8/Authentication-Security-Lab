@@ -7,19 +7,33 @@ All actions are performed ethically and responsibly.
 
 ## About the project
 
-In this project we simulate brute force and password spraying attacks on a server under different conditions, to find the optimal combination of defensive measures against those attacks. 
+This project investigates the effectiveness of password hashing algorithms and authentication security mechanisms against Brute Force and Password Spraying attacks.
+We developed a Python-based authentication server using Flask and SQLite, alongside an attack simulation client, to conduct controlled experiments and evaluate different security configurations.
 
- We have different: 
-- **Hash modes** : `sha256`, `Argon2id` and `bcrypt`. 
-- **Defensive authentication measures** : Account locking, Rate limiting, Captcha and TOTP. 
+The research compares:
 
-#### Findings : 
-We have found that : `Argon2id + TOTP + Rate limiting` is the most optimal combination. 
-- Argon2id - takes less CPU resources and more memory then `bcrypt` hash mode, while it allows the server to process the password into hash and verify it faster. At the same time it provides better security and Hash capability then `sha256`. 
+**Password Hashing:** SHA-256, bcrypt, and Argon2id.
 
-- TOTP - Stops both brute force and password spraying attacks ( all of them ). 
+**Security Mechanisms:** Rate Limiting, Account Locking, CAPTCHA, and TOTP.
 
-- Rate limiting - Slows down brute force attacks significantly, although account locking would provide higher level of security, the negative of bad experience for both the users and the working stuff ( having to unlock each account manually can take a lot of time and be a big inconvenience for both the admins and the users ) makes Rate limiting a better option out of the 2. 
+**Performance Metrics:** Attack success rates, attempts per second, authentication latency, CPU utilization, and memory consumption. 
+
+#### Key Findings : 
+**Password Hashing:** SHA-256 achieved the highest authentication throughput, while bcrypt significantly reduced attack speed at the cost of higher CPU utilization. Argon2id demonstrated intermediate performance with greater memory consumption under the tested configurations.
+
+**Rate Limiting:** Significantly slowed Brute Force attacks but was less effective against Password Spraying.
+
+**TOTP:** Prevented successful unauthorized authentication in both tested attack scenarios.
+
+**Layered Security:** The combination of Argon2id + Rate Limiting + TOTP provided the strongest overall protection among the tested configurations.
+
+These findings are based on experiments conducted in a controlled laboratory environment
+
+### Research Documentation
+- [Research Report (PDF)](docs/Authentication_Security_Research_Report.pdf)
+- [Project Presentation (PDF)](docs/Authentication_Security_Presentation.pdf)
+
+*Both documents are available in Hebrew.*
 
 ### Password Classification Method
 
